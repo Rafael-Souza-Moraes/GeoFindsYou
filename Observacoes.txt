@@ -1,0 +1,2 @@
+O projeto precisa ser desenvolvido utilizando o Xamarin.
+Deve utilizar uma API para fazer a comunicação.
