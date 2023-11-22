@@ -1,0 +1,64 @@
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.deps.json
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.dll
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\ref\GeoFindsYou.dll
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.pdb
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.AssemblyReference.cache
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.GeneratedMSBuildEditorConfig.editorconfig
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfoInputs.cache
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfo.cs
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.CoreCompileInputs.cache
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\XamlC.stamp
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.dll
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\refint\GeoFindsYou.dll
+D:\🖥 ⚠️ RAFAEL SOUZA MORAES ⚠️ 🖥\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.pdb
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.deps.json
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.dll
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\ref\GeoFindsYou.dll
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.pdb
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.AssemblyReference.cache
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfoInputs.cache
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfo.cs
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.CoreCompileInputs.cache
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\XamlC.stamp
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.dll
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.pdb
+D:\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\refint\GeoFindsYou.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.deps.json
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\ref\GeoFindsYou.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\GeoFindsYou.pdb
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\refint\GeoFindsYou.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.pdb
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\rafae\OneDrive\Documentos\My Folder\Xamarin\GeoFindsYou\GeoFindsYou\GeoFindsYou\obj\Debug\netstandard2.0\GeoFindsYou.csproj.CopyComplete
